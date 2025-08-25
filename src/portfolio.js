@@ -190,7 +190,7 @@ descBullets: [
       company: "Transformer",
       companylogo: require("./assets/images/WhatsApp Image 2025-08-24 at 14.31.12.jpeg"),
       href:'https://www.kaggle.com/code/arhamrezadd/transaloter2/edit',
-      date: "May 2017 – May 2018",
+      date: "May 2025 – june 2025",
       desc: "End-to-end English ↔ Hindi translator",
          descBullets: [
 "Implemented tokenizers, embeddings, attention mechanism and beam-search decoding in pure PyTorch—no pre-built libraries.",
@@ -202,7 +202,7 @@ descBullets: [
       company: "Yolo",
       companylogo: require("./assets/images/WhatsApp Image 2025-08-24 at 14.38.16.jpeg"),
       href:'https://github.com/BlueMoon67/ZOOM_CLONE/tree/main',
-      date: "Jan 2015 – Sep 2015",
+      date: "Jan 2024 – March 2024",
       desc: "Full-stack video-conferencing platform",
       descBullets: [
 "share screens, and chat in real time with sub-50 ms latency for 100+ HD streams",
